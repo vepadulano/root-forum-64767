@@ -1,0 +1,5 @@
+lib*
+RVecVecVec*
+!RVecVecVec.hxx
+!RVecVecVecLinkDef.hxx
+data

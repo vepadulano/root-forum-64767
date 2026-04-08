@@ -1,0 +1,5 @@
+#ifdef __CLING__
+
+#pragma link C++ class ROOT::VecOps::RVec<std::vector<std::vector<float>>>;
+
+#endif
